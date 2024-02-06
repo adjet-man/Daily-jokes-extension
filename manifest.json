@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "LaughLine",
+    "version": "1.0",
+    "description": "A Chrome Extension for short jokes",
+    "permissions": [
+      "activeTab"
+    ],
+    "icons": 
+    {
+     "16": "Logo/logo.png",
+     "48": "Logo/logo.png",
+     "128": "Logo/logo.png",
+     "300": "Logo/logo.png"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
